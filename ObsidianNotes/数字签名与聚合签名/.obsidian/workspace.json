@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "7f87221072a105be",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fdd695c7cea78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee39b45fa05024b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数字签名与聚合签名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab26f14ac8d66758",
+    "type": "split",
+    "children": [
+      {
+        "id": "421b2aef105b6c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef9eb14c6761ad51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47ada729f8b9134f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e76f270fede5159",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1cce6ce4f89655d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d6a8be2dd47e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "698d78dc37e26266",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数字签名与聚合签名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20363796e8573bac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数字签名与聚合签名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02c31bd4727f2f05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cf9ef19444fdbb0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数字签名与聚合签名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ee39b45fa05024b2",
+  "lastOpenFiles": [
+    "images/02公式.png",
+    "0CCB4E45.png",
+    "数字签名与聚合签名.md",
+    "images/1728637722266(1).png",
+    "images/01数字签名.png",
+    "images/1728633841328.png",
+    "images",
+    "Untitled.md"
+  ]
+}
